@@ -21,7 +21,6 @@ function App() {
     };
 
     return (
-        //Router kullanılacaksa Router wrap'e alınmalı.
         <Router>
             <Header />
             <div className="container">
